@@ -14,11 +14,16 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"width="600" height="300"/>
 </div>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"width="30">from India.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 
 - :seedling: Exploring Technical Content Writing.
+- 
 - :zap: In my free time, I read tech articles.
+- 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Durga%20prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-n-471626231/)
+- 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
