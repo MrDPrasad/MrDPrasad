@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Durgaprasad-blue?style=flat&logo=Linkedin&logoColor=white)]()
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Durga%20prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-n-471626231/)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
