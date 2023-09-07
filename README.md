@@ -8,8 +8,9 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=MrDPrasad&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey there
+  Hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="30px"/>
+  I am Durga prasad 
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"width="600" height="300"/>
@@ -33,3 +34,18 @@ I am a Small enthusiastic Developer from Karnataka, India. <img src="https://med
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  <img src="https://https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" **alt="flask" width="40" height="40"/>
 </div>
+
+<div style="text-align:center;">
+  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrDPrasad)](https://git.io/streak-stats)
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDPrasad)](https://github.com/MrDPrasad/github-readme-stats)
+   
+    
+   
+</div>
+
+
+
