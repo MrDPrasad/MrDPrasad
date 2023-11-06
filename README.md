@@ -36,6 +36,8 @@ I am a Small enthusiastic Developer from Karnataka, India. <img src="https://med
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"title="flask" **alt="Flask" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"title="mysql" **alt="Mysql" width="40" height="40"/>
+    <img src=" https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"title="mysql" **alt="Mysql" width="40" height="40"/>
 </div>
 
 <div style="text-align:center;">
