@@ -18,13 +18,9 @@
 I am a Small enthusiastic Developer from Karnataka, India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"width="30">
 
 - :telescope: I’m a student contributing to frontend and backend for building web applications.
-- 
 - :seedling: Exploring Technical Content Writing.
-- 
 - :zap: In my free time, I read tech articles.
-- 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Durga%20prasad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durga-prasad-n-471626231/)
-- 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"title="c" **alt="C" width="40" height="40"/>
