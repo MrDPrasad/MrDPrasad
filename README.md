@@ -50,3 +50,4 @@ I am a Small enthusiastic Developer from Karnataka, India. <img src="https://med
 
 
 
+<img src="https://raw.githubusercontent.com/MrDPrasad/MrDPrasad/output/snake.svg" alt="Snake animation" />
