@@ -46,8 +46,10 @@ I am a Small enthusiastic Developer from Karnataka, India. <img src="https://med
    
     
    
+
+
+
+[![An image of @mrdprasad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrdprasad)](https://holopin.io/@mrdprasad)
 </div>
 
-<img src="https://raw.githubusercontent.com/MrDPrasad/MrDPrasad/output/snake.svg" alt="Snake animation" />
-[![An image of @mrdprasad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrdprasad)](https://holopin.io/@mrdprasad)
 ###
