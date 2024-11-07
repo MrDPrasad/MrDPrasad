@@ -13,7 +13,7 @@
   I am Durga prasad 
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 </div>
 I am a Small enthusiastic Developer from Karnataka, India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"width="30">
 
